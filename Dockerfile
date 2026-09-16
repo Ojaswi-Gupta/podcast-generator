@@ -1,8 +1,8 @@
-# FROM ubuntu:latest
-FROM python:3.11-slim
+FROM ubuntu:latest
+# FROM python:3.11-slim
 
 RUN apt-get update && apt-get install -y \
-    # python3.11 \
+    python3.11 \
     python3-pip \
     git
 
