@@ -1,4 +1,4 @@
-name: "Podcast Generator Learning"
+name: "Podcast Generator Learning - 2k26"
 author: "Ojas Gupta"
 description: "Generates a feed for a podcast from a YAML file"
 runs:
